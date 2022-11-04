@@ -1,5 +1,5 @@
 <div align="center">
-  <img class="logo" src="assets/Cowjiang-white.png" alt="" width=450>
+  <img class="logo" src="assets/logo-white.png" alt="" width=450>
 </div>
 <br>
 
