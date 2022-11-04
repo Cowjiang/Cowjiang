@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://github.com/Cowjiang">
-    <img class="logo" src="assets/logo-white.png" alt="" width=450>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/logo-black.png">
+      <img src="assets/logo-black.png" width=450 alt="">
+    </picture>
   </a>
 </div>
 <br>
