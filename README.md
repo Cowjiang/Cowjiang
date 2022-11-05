@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/Cowjiang">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/logo-black.png">
-      <img src="assets/logo-black.png" width=450 alt="">
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.helloimg.com/images/2022/11/05/ZYu91b.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.helloimg.com/images/2022/11/05/ZYuvRS.png">
+      <img src="https://www.helloimg.com/images/2022/11/05/ZYuvRS.png" width=450 alt="">
     </picture>
   </a>
 </div>
@@ -20,5 +20,5 @@
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Wechat](https://img.shields.io/badge/wechat-%3776AB.svg?style=for-the-badge&logo=wechat&logoColor=white&color=00bf65)
 
-</a>
+  </a>
 </div>
